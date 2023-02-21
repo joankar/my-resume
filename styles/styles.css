@@ -1,0 +1,136 @@
+body {
+    background-color:rgb(174, 174, 238);
+    font-family: 'Montserrat', sans-serif;
+}
+/* Right section styles */
+.right-section {
+    padding-left: 90px;
+    padding-right: 220px;
+    background-color: #fff;
+}
+.about-me-profession {
+    font-size:35px;
+    color:black;
+    font-family:'Montserrat';
+    font-style:normal;
+    font-weight:600;
+    margin-top: 80px;
+    line-height:55px;
+}
+
+.main-section {
+    display:flex;
+    flex-direction: row-reverse;   
+    width: 1200px;
+    margin:40px auto;
+}
+
+.projects-item {
+    font-family: 'Montserrat';
+    font-style:normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 28px;
+    color: #595959;
+}
+
+.ol li {
+    color:#000;
+    font-weight: 700;
+}
+.bracket {
+    color:rgb(0, 0, 0);
+    font-weight: 700;
+    text-align: right;
+}
+
+.about-me-section {
+    padding-right: 15px;
+    padding-top: 15px;
+}
+.learning-section {
+    padding-top: 10px;
+    width: 550px;
+}
+
+.block-title {
+    font-family: 'Montserrat';
+    font-style:normal;
+    font-weight:700;
+    font-size:22px;
+    line-height: 27px;
+    color:#000000;
+}
+
+.work-experience-section {
+    margin-top: 40px 0 0 0;
+}
+.autodidact-section {
+    margin-bottom: 110px;
+    margin-top: 45px;
+}
+
+.education-name {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size:16px;
+    line-height: 20px;
+    color:#FB603A;
+}
+
+.university-name {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size:16px;
+    line-height: 20px;
+    color:#FB603A;
+}
+
+/* Sidebar styles */
+
+.sidebar-section {
+    background-color: #1e2939;
+    width: 370px;
+}
+
+.sidebar-section img {
+    margin-top: 40px;
+}
+.sidebar-title {
+    font-style:normal;
+    font-weight: 700;
+    font-size:22px;
+    line-height: 27px;
+    color:#fff;
+}
+.contacts-section, .tech-skills-section {
+    margin-left:40px;
+}
+.contacts-section-type {
+    font-style:normal;
+    font-weight: 700;
+    font-size:14px;
+    line-height: 24px;
+    color:#fff;
+    margin-right: 10px;
+}
+.contacts-section-value {
+    font-style:normal;
+    font-weight:400;
+    font-size:16px;
+    line-height:24px;
+    color:#ececec;
+}
+.sidebar-list li {
+    color: #FB603A;
+    padding-left:10px;
+}
+.sidebar-list span {
+    font-style: normal;
+    font-weight:400;
+    font-size:18px;
+    line-height:24px;
+    color:#fff;
+}
